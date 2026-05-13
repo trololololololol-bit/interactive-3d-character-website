@@ -1,0 +1,61 @@
+{
+    "cammitch": {
+        "name": "Cameron 'Cammitch' Mitchell",
+        "stats": "Age: 17 <br> Pronouns: He/They <br>Height: 5'8 <br>Nationality: Korean + Mexican <br>Likes: Drumming, Eating, Video Games, Priscilla Hawkins <br>Dislikes: Vegetables, Responsibility, Early Mornings",
+        "description": "Cameron Mitchell, also known as 'Cammitch' is a ditsy aspiring drummer who somehow drags everyone around him into chaotic adventures. Despite his impulsive personality and questionale decision-making skills, his energy and optimism make him impossible to hate.",
+        "bgImg": "assets/images/greenbg.jpg",
+        "modelBgImg": "assets/images/cambg.jpg",
+        "btnColor": "#41842f",
+        "bgColor": "#0c130f",
+        "dotColor":"rgba(255,255,255,0.15)",
+        "title": "Character 1 || Cameron Mitchell",
+        "namebx":"#ffffb4",
+        "model":"assets/models/cammitchm.glb",
+        "animbtn1": "Dance",
+        "animbtn2": "Wake him up!",
+        "idlesound": "assets/music/camdrum.mp3",
+        "anim1sound": "assets/music/camdrum.mp3",
+        "anim2sound": "assets/music/snore+wake.mp3"
+
+    },
+    "arden": {
+        "name": "Arden Bell",
+        "stats": "Age: 19 <br> Pronouns: She/Her <br>Height: 5'5 <br>Nationality: British  <br>Likes: Engineering, Tea <br>Dislikes: Crowded Streets, Arrogance, Equipment Failure",
+        "description": "Arden Bell is a young inventor in an era defined by the rise of steam-powered machinery and industrial innovation. After earning a place at one of London's most prestigious invention academies, she becomes determined to prove herself amongst her talented and wealthy classmates while pushing the limits of her own creations.",
+        "bgImg": "assets/images/cogbg.jpg",
+        "modelBgImg": "assets/images/ardenbg.jpg",
+        "btnColor": "#b6925a",
+        "bgColor": "#2b1709",
+        "dotColor":"rgba(255,255,255,0.15)",
+        "title": "Character 2 || Arden Bell",
+        "namebx":"#ffffb4",
+        "model":"assets/models/arden_bell.glb",
+        "animbtn1": "Wave",
+        "animbtn2": "Give her an idea...",
+        "idlesound": "assets/music/repairsfxidle.mp3",
+        "anim1sound": "d",
+        "anim2sound": "assets/music/thinkinggear.mp3"
+        
+
+
+    },
+    "bunny": {
+        "name": "Patches the Bunny",
+        "stats": "Age: 362 <br>Pronouns: She/Her <br>Height: 3'1 <br>Nationality: Unknown <br>Likes: Haunted places, Antique toys  <br>Dislikes: Fire, Sunlight (Anything bright)",
+        "description": "Patches is a reanimated stuffed toy who works as a soul collector for PhantomCorp™, the biggest retailer for dark magic-infused items. She travels to haunted locations, battling and defeating formidable creatures to retrieve their soul core and meet her spirit-quota. ",
+        "bgImg": "assets/images/creepybg.jpg",
+        "modelBgImg": "assets/images/bunnybg.jpg",
+        "btnColor": "#1f1a2e",
+        "bgColor": "#1d1f2f",
+        "dotColor":"rgba(255,255,255,0.15)",
+        "title": "Character 3 || Patches",
+        "namebx":"#ffffb4",
+        "model":"assets/models/PATCHES7.glb",
+        "animbtn1": "Collect Souls",
+        "animbtn2": "Possess",
+        "idlesound": "assets/music/windy.mp3",
+        "anim1sound": "assets/music/soulsfx.mp3",
+        "anim2sound": "assets/music/haunted.mp3"
+    }
+    
+}
