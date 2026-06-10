@@ -17,4 +17,4 @@ in a dynamic environment.
 <img width="400" height="296" alt="Screen Recording 2026-06-10 232847" src="https://github.com/user-attachments/assets/95ddb40f-14b5-4c64-9e15-9f538c8b8ca4" />
 
 <img width="400" height="316" alt="Screen Recording 2026-06-10 232821" src="https://github.com/user-attachments/assets/0f03d2b4-f879-441d-8222-703ceaf1ed62" />
-<img width="400" height="316" alt="Screen Recording 2026-06-10 232821" src="https://github.com/user-attachments/assets/b9d065e5-53e3-4eb3-8542-a7e3b679cb14" />
+
