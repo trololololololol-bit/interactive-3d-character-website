@@ -1,20 +1,19 @@
 Interactive 3D Character Website
 
-An interactive 3d web application built using Three.js that showcases three 3D characters that were created in Blender. 
-The project runs in real time in the browser, allowing users to explore, rotate, and interact with the 3D assets
+An interactive 3d web application built using Three.js that shows three 3D characters that were created in Blender. 
+The project runs in real time in the browser, allowing users to interact with the 3D assets
 in a dynamic environment. 
 
 Features:
-- Dynamic, JSON-based content loading system
+- JSON-based content loading system
 - Custom lighting and scene adjustments
-- Audio feedback for interactions
+- Audio feedback for interactions and animations
 - Interactive camera controls
 - Real-time rendering in the browser using Three.js
 
 What I learned: 
 - Integrating Blender to Three.js
-- Structuring a data-driven web application
-- Real-time 3D rendering 
+- Creating and structuring a data-driven web application
 
 https://go.screenpal.com/watch/cO160hnutOm
 
